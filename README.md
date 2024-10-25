@@ -1,5 +1,5 @@
 # Machine-Learning
-In the House Price Analysis(ML Project1):
+## In the House Price Analysis(ML Project1):
 Analyzed key factors such as location, area, and amenities, impacting house prices by up to 35%.
 • Calculated feature importance using regression model coefficients to identify top 5 influential features.
 • Achieved model accuracy with an R-squared value of 0.85 and a Mean Squared Error (MSE) of 4500.
@@ -7,7 +7,7 @@ Analyzed key factors such as location, area, and amenities, impacting house pric
 • Applied linear regression assumptions to deliver price predictions with 95% reliability
 
 
-In the TCS Stock Price Analysis:
+## In the TCS Stock Price Analysis:
 Strong Long-Term Trend: TCS stock prices demonstrated a consistent upward trend over the past 14 years, indicating sustained growth with periodic fluctuations.
 Market Volatility: Although the overall trend was positive, the stock experienced volatility during certain periods, possibly linked to market-wide or industry-specific events.
 Predictive Insights: The time series analysis and forecasting models can provide valuable insights into future stock price movements, helping investors make informed decisions.
